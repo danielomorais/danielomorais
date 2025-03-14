@@ -13,6 +13,6 @@
 ##
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=danielomorais&theme=dark" width="480" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielomorais&theme=dark" width="380" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=danielomorais&theme=dark" width="400" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielomorais&theme=dark" width="315" /> 
 </div>
