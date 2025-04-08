@@ -15,7 +15,7 @@ Atualmente estamos com um projeto interno da faculdade onde atuo como desenvolve
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="mailto:dan.oliveira972@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/danielomorais?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/danielomorais?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguir&logoColor=white"/></a>
    </p>
 
