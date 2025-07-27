@@ -1,4 +1,4 @@
-# 🐦‍⬛Daniel Morais
+# Daniel Morais
 
 **`Desenvolvedor Back-End`**
 
