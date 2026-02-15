@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-🖐🏽 Olá! Me chamo <b>Daniel Morais de Oliveira</b>, tenho 21 anos e sou natural de Salvador - BA. Atualmente sou universitário em Análise e Desenvolvimento de Sistemas em busca do primeiro passo na carreira back-end.
+🖐🏽 Olá! Me chamo <b>Daniel Morais de Oliveira</b>, tenho 22 anos e sou natural de Salvador - BA. Atualmente sou universitário em Sistemas da Informação em busca do primeiro passo na área de tecnologia.
 
 Além disso faço parte do <a href="https://www.linkedin.com/company/un1d3v/posts/?feedView=all"><b>🤖UN1D3V</b></a> (Núcleo de Desenvolvimento de Softwares da UNIME em Lauro de Freitas) onde atuo no desenvolvimento de soluções voltadas para a própria instituição, ONGs e a comunidade em geral.
 
